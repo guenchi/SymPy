@@ -1,6 +1,6 @@
 # SymPy for Chez Scheme
 
-![image](https://github.com/guenchi/SymPy/blob/master/sympy.png)
+![image](https://github.com/guenchi/SymPy/blob/master/img/sympy.png)
 
 ### Depencies:
 
